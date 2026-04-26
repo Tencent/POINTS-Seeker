@@ -9,7 +9,7 @@
   <a href="https://huggingface.co/datasets/code-kunkun/POINTS-Seeker-Eval">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Evaluation%20logs-ffbd45.svg" alt="HuggingFace">
   </a>
-  <a href="https://huggingface.co/papers/2602.06391">
+  <a href="https://arxiv.org/pdf/2604.14029">
     <img src="https://img.shields.io/badge/Paper-POINTS--Seeker-d4333f?logo=arxiv&logoColor=white&colorA=cccccc&colorB=d4333f&style=flat" alt="Paper">
   </a>
 </p>
